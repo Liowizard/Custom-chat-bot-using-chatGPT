@@ -1,0 +1,771 @@
+Chennai Cloud & Data Centre Convention Digital India programme has created ripples with far outreaching effects that go beyond the realm of industries; it has turned itself into a mass movement where every state and its people now actively have a stake in the emerging digital economy. One state that pledged to grow and revive and contribute heavily to India’s GDP is Tamil Nadu. Till now, the Southern metropolis which always has been a ‘favourable’ investment destination, has attracted over Rs.50,000 crores proposals. In the industrial ecosystem, Tamil Nadu, so far, has been leading automobile, wind energy, and electronics hardware manufacturing; however, owing to the stable system of governance and guidance by the top economists, Tamil Nadu will soon emerge as the data centre capital of India. The government’s adherence to providing power, land, and connectivity infrastructure for DCs, fiscal and non-fiscal incentives, and promoting renewable energy use for everyday management has created a supportive technology bubble for industries to set up data centres. However, the endless opportunities also raise the concern of security. Being the 1st state to come up with ethical AI, blockchain, cyber security policies in the country, the state is already one step ahead in having its foundational ground secured and safeguarded. As Tamil Nadu is gearing up to provide a ready, built and well-established supply chain for data centres to integrate scale within the state, we, at W.Media, to give a fillip to their efforts are now coming up with the Chennai Cloud & Data Centre Convention.
+#datacenter #datacenternews #datacenterinfrastructure #datacenterindustry #news #viral #technology #cloud #wmedia #datacentre #sustainability
+
+
+
+Panel Discussion: What role will Edge play in delivering India’s digital transformation? As digitalisation increases throughout India and reaches larger numbers of businesses and consumers, what role will Edge play in a future IT delivery strategy? How will Edge evolve across India to play this role? Who will lead and invest in this roll-out? How will this process impact digital infrastructure across the country? Venkat Ramani Moderator CTO ,Alliance Broadcast (News7 Tamil) Natish Chauhan Head – Enterprise IT Infrastructure ,Apollo Hospitals Group Level Satya Krishna Kunadharaju Vice President - Head of Digital Strategy & Transformation, RP Sanjiv Goenka Group Rajesh Kuppuswamy Managing Director & Head - India Tech. Centre and Engineering Practice, Wholesale Technology, HSBC Ganesh Manoharan Raju CTO ,Genome International India Pvt Ltd Murugan Chidhambaram Head of Digital Transformation ,Aquaconnect 4:25 PM Panel Discussion: Buying cloud well As the number of cloud services and delivery models available to businesses across India increases, so can the difficulty of making the correct choices . Concerns remain still about deploying cloud in terms of cost, service levels, control and visibility. What are the key questions to be asked when procuring cloud and how do you make best use of the answers?  Sivakumar Krishnasamy Moderator Senior Director ,Yubi Manjunath Prasad Vice President-ITS ,TVS Mobility Pvt Ltd Dr Vani Gopalan IT Director and India CoE Leader,Flowserve Corporation Shivapriya Sivaraman Senior Director, Enterprise Data Platforms ,PayPal Palanisami Nachimuthu Chief Information Officer, GMMCO, CK Birla Group 5:15 PM Panel Discussion: What are the key data center technologies that will most shape the Indian data center of the future? What are some of the key technologies that we can expect to see come onto the market in coming years? And which will contribute most to the challenges faced by data centers in India? How will they do so? Subhamkar Das Moderator Executive Director & Chief Operating Officer Data Center Fund Kotak Investment Advisors Ramachandra Nimbargi Head - Datacenter (Design), Larsen & Toubro Sarveswara Rao Devana Head - Information Technology, Mobis India (Hyundai Motors) Suppan Saravanamuthu Director of Operations - Asia Pacific ,Iron Mountain Data Centers Srinivasulu Thayam Chief Technology Officer ,Aravind Eye Hospital 6:00 PM Closing Remarks By W.Media & Raffle Draw 6:10 PM Networking with Drinks Our Sponsors Gold Silver Bronze Our Partners & General Sponsors In Association with Associate Sponsor Media Partner Media Partner Media Partner Media Partner Previous Event Highlights Gallery F.A.Q How to buy ticket for the event? Where can I find my QR code for registration? What are criteria for end users delegate pass ? Can I set up a booth or exhibit at the event? How can I participate as a speaker? How can I stay updated on the latest news and announcements for the event? Will I get confirmed e-mail after registration for the event? Can I register onsite? What is the W.Media Membership Program? Where can I watch previous events highlights & panel discussions? Back to W.Media Site
+#datacenter #datacenternews #datacenterinfrastructure #datacenterindustry #news #viral #technology #cloud #wmedia #datacentre #sustainability
+
+ajesh is a python developer 
+ 
+deepak is a react devaloper 
+
+
+
+ViewDocument
+
+implimentation of offline -facial
+Registration Process  - offline Facial verification
+------------------------------------------------------------------------------
+Use clear and even lighting.
+Ensure only one person is in front of the camera.
+Check for unwanted faces or objects in the background.
+if person is wearing specs make sure no light reflection in eye glass
+Position the camera at eye level.
+Facial Authentication 
+-----------------------------------------------
+
+ 1,How long will it take to verify my image?
+
+Image verification will take 5-10 seconds for the first time of installation or update of the app. From the second time onwards, it will be very quick depending on your device.
+
+ 
+
+2,What should I do if I face facial verification failure?
+
+If you face facial verification failure more than 2 times, please try uninstalling and reinstalling the app. If your image fails more than 3 times consecutively, please contact the support team.
+
+ 
+
+3,How can I ensure a successful facial verification?
+
+Ensure that your lighting is clear and there is only one person in front of the camera, with no unwanted faces or objects in the background. If you wear spectacles, make sure there are no reflections in the mirror.
+ 
+
+4,How do I take a facial verification on iOS?
+
+To take a facial verification on iOS, you need to blink once during the process.
+
+ 
+
+5,How do I take a facial verification on Android?
+
+To take a facial verification on Android, simply click on the take photo icon. The verification process will automatically begin.
+
+ 
+
+6,What Android versions are supported for offline verifications? 
+
+A: Although we support older versions of Android, we recommend Android 9.0 Pie (2018) and above for the best experience with offline verifications.
+
+ 
+
+7,What iOS versions does Digiclass support?
+Digiclass supports iOS 10 and newer versions. We recommend using iOS 12 or later for the best experience.
+
+ 
+
+ 
+
+Facial Authentication with liveness 
+----------------------------------------------------------------------
+
+What is facial liveness in the Digiclass app?
+
+ Facial liveness is a process that ensures the user is present during facial recognition and prevents fraudulent activity.
+
+ 
+
+How does facial liveness work in the app?
+
+ Facial liveness checks for spontaneous actions like blinks or facial expressions to verify the user's presence.
+
+ 
+
+What happens if I fail the facial liveness check?
+
+ If you fail, try again and follow the prompts correctly.
+
+ 
+
+How long does the facial liveness check take? 
+
+It only takes a few seconds, and a random blink prompt appears for 3 seconds out of a 10-second time frame. Properly blink during those 3 seconds to avoid failure.
+
+
+Business Requirement Document (BRD) - DigiClass Parent Application
+1.0 Introduction
+Background: Digiclass is an unified academic management system that aims to track and
+monitor curricular deliveries in real-time, ensuring quality and compliance with accreditation and
+regulatory standards.
+Purpose: The purpose of this document is to outline the business requirements for the
+development of a parent application within Digiclass, addressing the key requirements of
+parents and enhancing their involvement in their children's education.
+2.0 Stakeholders
+Parents: Primary users of the parent application.
+Administrators: System administrators responsible for managing Digiclass.
+Academicians: Educators and instructors involved in curriculum delivery.
+Staff Members: Non-teaching staff members at educational institutions.
+HEBA (Higher Education Bot Assistant): AI-powered assistant for providing insights on learning
+progress.
+3.0 Problem Statement
+Existing College-based learning management solutions lack comprehensive curricular delivery
+data and students' accountability information in their parent applications.
+Parents, especially those with children in distant locations, have specific requirements to stay
+informed about their kids' academic progress and well-being.
+4.0 Business Requirements
+4.1 Parent Application Features
+Attendance Tracking: Parents should be able to monitor their children's regular attendance at
+college or university.
+Class Attendance: Parents should receive updates on their children's attendance in individual
+classes.
+Classroom Activities: Parents should have access to information about their children's
+participation and engagement in classroom activities.
+Examination Results: Parents should be able to track their children's performance in exams and
+assessments.
+Communication: Parents should be able to communicate with staff members and administrators
+through text, voice calls, and video calls.
+Announcements: Parents should receive timely notifications of college announcements.
+Multi-Stakeholder Alerts: Parents should be able to set alerts for multiple stakeholders (e.g.,
+parents, guardians) via mobile numbers and email IDs.
+Leave Management: Parents should be able to apply for student leave and receive notifications
+when leave is requested.
+Location Tracking: Parents should have access to their children's current location and mobile
+charge status.
+Geo-fencing Alerts: Parents should receive alerts if their children move away from defined
+locations or enter unmapped locations for an extended period.
+SOS Messages: Parents should receive emergency SOS messages in case their children
+perceive threats.
+5.0 High Level Functional Requirements
+5.1 Phase 1: Initial Features
+Dashboard: Provide attendance data and quick access to courses and attendance reports.
+My Courses: Display the courses in which the student is enrolled and provide access to
+attendance reports.
+Find My Child: Enable parents to locate their children.
+SOS: Implement an emergency SOS feature.
+5.2 Phase 2: Additional Features
+Dashboard: Allow parents to add activities and view attainment data.
+Activities: Enable parents to track their children's activities.
+Attainment Data: Provide information on the students' progress and achievement.
+5.3 Phase 3: Leave Management
+Dashboard: Introduce leave management data to the dashboard.
+Leave Management: Allow parents to manage student leave applications.
+5.4 Phase 4: Assignment Management
+Dashboard: Include assignment data in the dashboard.
+Assignment: Provide functionality for parents to access and track their children's assignments.
+5.5 Phase 5: Integration with DigiAssess
+Dashboard: Integrate with DigiAssess data.
+DigiAssess Integration: Enable parents to view and track their children's assessment data from
+DigiAssess.
+5.6 Phase 6: Subscription-Based Features
+Dashboard: Customize the dashboard based on the user's subscription level (Basic, Advanced,
+or Pro).
+Basic Subscription: Provide access to all features except for adding five mobile numbers and
+email IDs for alerts, chat communications (text, audio, video) with their child and staff members,
+and adding friends for group discussions. It includes features such as attendance tracking, class
+attendance, examination results, communication, announcements, multi-stakeholder alerts,
+leave management, location tracking, geo-fencing alerts, and SOS.
+Advanced Subscription: Include all features of the Basic Subscription, with the additional
+capability to add five mobile numbers and email IDs for alerts and engage in textual chat
+communications with their child and staff members.
+Pro Subscription: Include all features of the Advanced Subscription, with the added functionality
+of audio and video chat communications with their child and staff members, the ability to add
+friends (students from the same campus) for group discussions, the addition of five GPS
+locations for geo-fencing alerts, and access to the SOS and Find My Child features.
+HEBA Integration: Offer a special add-on available for all subscription models, allowing parents
+to interact with HEBA for insights on their child's learning, conduct assessments, and obtain
+their child's learning status quo.
+6.0 Conclusion
+The parent application within Digiclass aims to address the key requirements of parents,
+facilitating their active involvement in monitoring and supporting their children's education. The
+development will follow a phased approach, incrementally introducing features to ensure a
+user-friendly experience and gather valuable user feedback.
+Note: The Business Requirement Document (BRD) provides an overview of the business
+requirements and goals for the parent application within Digiclass. It outlines the needs of
+parents, stakeholders, and the proposed features and functionality. The document sets the
+foundation for the subsequent Functional Requirement Document (FRD), which will provide
+more detailed specifications for each feature identified in the BRD.
+User stories based on the requirements mentioned in the Business Requirement Document
+(BRD):
+1. As a parent, I want to be able to view my child's attendance records in real-time, so I can
+ensure they are attending college regularly.
+2. As a parent, I want to receive notifications if my child is not attending specific classes, so
+I can address any attendance issues promptly.
+3. As a parent, I want to have visibility into my child's participation and engagement in
+classroom activities, so I can assess their level of involvement in their studies.
+4. As a parent, I want to track my child's performance in examinations and assessments,
+so I can gauge their progress and provide necessary support.
+5. As a parent, I want the ability to communicate with staff members and administrators
+through various channels (text, voice call, video call), so I can discuss my child's
+academic progress or address any concerns.
+6. As a parent, I want to receive timely general (for all) and specific (for me)
+announcements from the college or university, ensuring I stay informed about important
+events, deadlines, or changes.
+7. As a parent, I want to set up alerts to multiple mobile numbers and email addresses, so
+that other relevant stakeholders (e.g., parents, guardians) can receive important
+information about my child's academic activities.
+8. As a parent, I want to know the current location of my child, ensuring their safety and
+monitoring if they are within specified locations.
+9. As a parent, I want to receive alerts if my child moves away from defined locations or
+enters unmapped areas for an extended period, so I can take appropriate action if
+necessary.
+10. As a parent, I want the ability to send and receive SOS messages in case my child
+perceives a threat or is in an emergency situation.
+11. As a parent, I want a user-friendly dashboard that displays relevant attendance data,
+quick access to courses and attendance reports, and provides an intuitive interface for
+accessing key features.
+12. As a parent, I want to be able to view activities and attainment data, allowing me to track
+my child's involvement in extracurricular or additional learning activities.
+13. As a parent, I want the functionality to manage student leave applications within the
+system, including submitting requests and viewing the status of previous applications.
+14. As a parent, I want to be able to apply for student leave on behalf of my child, and
+receive notifications when leave is requested or approved.
+15. As a parent, I want to access and track my child's assignments, ensuring they are
+completing tasks and meeting deadlines.
+16. As a parent, I want seamless integration with DigiAssess, enabling me to view and track
+my child's assessment data and progress.
+17. As a parent, I want the flexibility to choose a subscription model (Basic, Advanced, or
+Pro) that aligns with my specific needs and desired level of access to features.
+18. As a parent, I want the option to interact with HEBA, an AI-powered assistant, to gain
+insights into my child's learning progress and request assessments to assess their
+current status quo.
+Functional Requirements Document (FRD)
+1.0 Introduction
+Purpose: The Functional Requirements Document (FRD) outlines the detailed functional
+specifications for the development of the parent application within Digiclass.
+Scope: The document covers the features and functionalities required to fulfill the business
+requirements stated in the Business Requirement Document (BRD).
+2.0 Functional Requirements
+2.1 Authentication and User Management
+Requirement 2.1.1: Users should be able to register and create a parent account.
+Requirement 2.1.2: Users should be able to log in securely to access the parent application.
+Requirement 2.1.3: User roles and permissions should be implemented to ensure appropriate
+access levels for parents, administrators, and staff members.
+Requirement 2.1.4: Password reset functionality should be available for users who forget their
+login credentials.
+2.2 Attendance Tracking and Reporting
+Requirement 2.2.1: Parents should be able to view their child's attendance records, including
+dates, courses, and attendance status.
+Requirement 2.2.2: Notifications should be sent to parents when their child is absent from
+college or specific classes.
+Requirement 2.2.3: Attendance reports should provide comprehensive data on the overall
+attendance percentage and details of individual courses.
+2.3 Classroom Activities Monitoring
+Requirement 2.3.1: Parents should be able to access information about their child's participation
+and engagement in classroom activities.
+Requirement 2.3.2: The application should provide activity logs or summaries, indicating the
+types of activities and the level of involvement.
+2.4 Examination Results and Progress Tracking
+Requirement 2.4.1: Parents should have access to their child's examination results and
+assessment scores.
+Requirement 2.4.2: Progress tracking functionality should allow parents to monitor their child's
+academic performance over time.
+2.5 Communication Features
+Requirement 2.5.1: Parents should be able to communicate with staff members and
+administrators via text, voice calls, and video calls within the application.
+Requirement 2.5.2: The application should provide a chat interface with individual and group
+chat capabilities for effective communication.
+2.6 Announcement and Notification System
+Requirement 2.6.1: The application should deliver timely announcements and notifications from
+the college or university to parents.
+Requirement 2.6.2: Notifications should be displayed prominently, with options for parents to
+view announcements in detail.
+2.7 Multi-Stakeholder Alerts
+Requirement 2.7.1: Parents should be able to set alerts and notifications to multiple mobile
+numbers and email addresses of relevant stakeholders, such as parents and guardians.
+Requirement 2.7.2: Alerts should be configurable based on specific events or conditions,
+ensuring important information reaches the intended recipients.
+2.8 Leave Management
+Requirement 2.8.1: Parents should be able to submit leave applications on behalf of their child,
+specifying the reason, dates, and other relevant details.
+Requirement 2.8.2: The application should provide a leave management system for
+administrators to review and approve or reject leave requests.
+2.9 Location Tracking and Geo-fencing
+Requirement 2.9.1: Parents should have access to their child's current location within the
+application.
+Requirement 2.9.2: The application should support defining GPS locations as per parental
+preferences for monitoring their child's movements.
+Requirement 2.9.3: Geo-fencing alerts should be triggered when the child moves away from the
+defined GPS locations or enters unmapped areas for more than half an hour.
+2.10 SOS Feature
+Requirement 2.10.1: The application should include an SOS feature that allows children to send
+distress messages to their parents in case of perceived threats or emergencies.
+Requirement 2.10.2: SOS alerts should trigger immediate notifications to parents, enabling them
+to respond promptly.
+2.11 User-Friendly Dashboard
+Requirement 2.11.1: The application should provide a user-friendly dashboard for parents,
+displaying relevant information such as attendance data, quick access to courses, and
+attendance reports.
+Requirement 2.11.2: The dashboard should have an intuitive interface with clear navigation and
+visual representations of data.
+2.12 Activity and Attainment Tracking
+Requirement 2.12.1: Parents should be able to add and view their child's activities and
+attainment data, including extracurricular activities and additional learning achievements.
+Requirement 2.12.2: The application should support tracking and reporting on the level of
+participation and the accomplishments of the child.
+2.13 Assignment Management
+Requirement 2.13.1: Parents should have access to their child's assignments within the
+application.
+Requirement 2.13.2: The application should provide functionality to view assignment details,
+submission deadlines, and completed assignments.
+2.14 Integration with DigiAssess
+Requirement 2.14.1: The application should integrate with DigiAssess, enabling parents to
+access and track their child's assessment data and progress.
+Requirement 2.14.2: The integration should provide seamless synchronization of assessment
+results and performance indicators.
+2.15 Subscription Models
+Requirement 2.15.1: The application should offer three subscription models: Basic, Advanced,
+and Pro.
+Requirement 2.15.2: Each subscription model should provide different levels of access to
+features and functionalities, as specified in the BRD.
+Requirement 2.15.3: The application should allow parents to choose their desired subscription
+level and upgrade or downgrade as needed.
+2.16 HEBA Integration
+Requirement 2.16.1: The application should integrate with HEBA, an AI-powered assistant,
+providing parents with insights into their child's learning progress and conducting assessments.
+Requirement 2.16.2: Parents should be able to interact with HEBA to request specific
+assessments and receive reports on their child's learning status quo.
+Note: The Functional Requirements Document (FRD) provides a comprehensive overview of the
+specific functionalities and features that need to be developed to meet the business
+requirements. The wireframe document provides visual representations of the user interface,
+helping stakeholders understand the layout and flow of the parent application.
+Detailed explanations to build the functional flow and wireframe
+The purpose of this explanation is to help you understand the structure and flow of the
+wireframes. Please note that these representations might not be as detailed or visually precise
+as actual flow diagrams. The design team must discuss with me or any SME/ BPE to create
+accurate flow diagrams.
+Here is a textual representation of the flow diagrams for the wireframes:
+1.0 Authentication and User Management Flow:
+1.1 User Registration:
+1.1.1 User accesses the registration page.
+1.1.2 User enters their details and submits the registration form.
+1.1.3 System validates the information and creates a new parent account.
+1.1.4 User receives a confirmation message.
+1.2 User Login:
+1.2.1 User navigates to the login page.
+1.2.2 User enters their credentials and submits the login form.
+1.2.3 System verifies the credentials and grants access to the parent dashboard.
+2.0 Parent Dashboard Flow:
+2.1 Dashboard Overview:
+2.1.1 Parent logs into the application.
+2.1.2 Parent is directed to the dashboard.
+2.1.3 Dashboard displays summarized information like attendance, courses, and recent
+announcements.
+2.2 Navigation:
+2.2.1 Parent can click on specific sections (e.g., Attendance, Courses) to access detailed
+information.
+2.2.2 Parent can access communication features, such as chat or video call, from the
+dashboard.
+3.0 Attendance Tracking and Reporting Flow:
+3.1 Attendance Overview:
+3.1.1 Parent selects the Attendance section from the dashboard.
+3.1.2 System retrieves attendance records for the child.
+3.1.3 Attendance data is displayed, including dates, courses, and attendance status.
+3.2 Notifications:
+3.2.1 System sends notifications to parents when their child is absent from college or specific
+classes.
+3.2.2 Parent receives a notification on the dashboard and/or via email/mobile app.
+4.0 Classroom Activities Monitoring Flow:
+4.1 Activities Overview:
+4.1.1 Parent selects the Activities section from the dashboard.
+4.1.2 System displays the list of classroom activities.
+4.1.3 Parent can view details of each activity, such as type, description, and the child's
+participation level.
+5.0 Examination Results and Progress Tracking Flow:
+5.1 Results Overview:
+5.1.1 Parent navigates to the Results section from the dashboard.
+5.1.2 System retrieves the child's examination results and assessment scores.
+5.1.3 Parent can view detailed results and track the child's progress over time.
+6.0 Communication Features Flow:
+6.1 Chat and Call:
+6.1.1 Parent accesses the communication section (e.g., Chat, Call) from the dashboard.
+6.1.2 Parent can select a staff member or administrator to initiate a chat or call.
+6.1.3 The system establishes the communication channel for text, voice, or video interaction.
+7.0 Announcement and Notification System Flow:
+7.1 Announcement Overview:
+7.1.1 Parent navigates to the Announcements section from the dashboard.
+7.1.2 System retrieves the latest announcements from the college or university.
+7.1.3 Parent can view the announcements, including details and important information.
+7.2 Notification Display:
+7.2.1 System sends notifications for new announcements or time-sensitive information.
+7.2.2 Parent receives notifications on the dashboard, via email, or through mobile app push
+notifications.
+8.0 Leave Management Flow:
+8.1 Leave Application:
+8.1.1 Parent selects the Leave Management section from the dashboard.
+8.1.2 Parent fills out a leave application form, specifying the reason and dates.
+8.1.3 Parent submits the form for review.
+8.2 Leave Approval:
+8.2.1 Administrator receives the leave application for review.
+8.2.2 Administrator approves or rejects the leave request.
+8.2.3 Parent receives a notification indicating the status of the leave application.
+9.0 Location Tracking and Geo-fencing Flow:
+9.1 Location Tracking:
+9.1.1 Parent accesses the Location Tracking section from the dashboard.
+9.1.2 System displays the current location of the child.
+9.1.3 Parent can view the child's location on a map or in text format.
+9.2 Geo-fencing Alerts:
+9.2.1 System monitors the child's movements based on predefined GPS locations.
+9.2.2 If the child moves away from defined locations or enters unmapped areas, alerts are
+triggered.
+9.2.3 Parent receives immediate notifications regarding the child's location deviations.
+10.0 SOS Feature Flow:
+10.1 SOS Activation:
+10.1.1 Child initiates the SOS feature in case of a perceived threat or emergency.
+10.1.2 SOS alerts are sent to the parent immediately.
+10.1.3 Parent receives notifications with information about the SOS activation and the child's
+status.
+11.0 Subscription Models Flow:
+11.1 Subscription Selection:
+11.1.1 Parent accesses the Subscription section from the dashboard.
+11.1.2 Parent chooses the desired subscription level (Basic, Advanced, or Pro).
+11.1.3 System updates the parent's access and feature availability based on the selected
+subscription.
+12.0 HEBA Integration Flow:
+12.1 Interaction with HEBA:
+12.1.1 Parent accesses the HEBA section from the dashboard.
+12.1.2 Parent interacts with HEBA to gain insights into the child's learning progress.
+12.1.3 Parent can request specific assessments or reports from HEBA for a comprehensive
+understanding.
+These textual representations provide a basic understanding of the flow and interactions within
+the wireframes. However, the design team must bring more detailed and visually appealing flow
+diagrams for the wireframes.
+
+
+Business Requirement Document (BRD) - DigiClass Parent Application
+1.0 Introduction
+Background: Digiclass is an unified academic management system that aims to track and
+monitor curricular deliveries in real-time, ensuring quality and compliance with accreditation and
+regulatory standards.
+Purpose: The purpose of this document is to outline the business requirements for the
+development of a parent application within Digiclass, addressing the key requirements of
+parents and enhancing their involvement in their children's education.
+2.0 Stakeholders
+Parents: Primary users of the parent application.
+Administrators: System administrators responsible for managing Digiclass.
+Academicians: Educators and instructors involved in curriculum delivery.
+Staff Members: Non-teaching staff members at educational institutions.
+HEBA (Higher Education Bot Assistant): AI-powered assistant for providing insights on learning
+progress.
+3.0 Problem Statement
+Existing College-based learning management solutions lack comprehensive curricular delivery
+data and students' accountability information in their parent applications.
+Parents, especially those with children in distant locations, have specific requirements to stay
+informed about their kids' academic progress and well-being.
+4.0 Business Requirements
+4.1 Parent Application Features
+Attendance Tracking: Parents should be able to monitor their children's regular attendance at
+college or university.
+Class Attendance: Parents should receive updates on their children's attendance in individual
+classes.
+Classroom Activities: Parents should have access to information about their children's
+participation and engagement in classroom activities.
+Examination Results: Parents should be able to track their children's performance in exams and
+assessments.
+Communication: Parents should be able to communicate with staff members and administrators
+through text, voice calls, and video calls.
+Announcements: Parents should receive timely notifications of college announcements.
+Multi-Stakeholder Alerts: Parents should be able to set alerts for multiple stakeholders (e.g.,
+parents, guardians) via mobile numbers and email IDs.
+Leave Management: Parents should be able to apply for student leave and receive notifications
+when leave is requested.
+Location Tracking: Parents should have access to their children's current location and mobile
+charge status.
+Geo-fencing Alerts: Parents should receive alerts if their children move away from defined
+locations or enter unmapped locations for an extended period.
+SOS Messages: Parents should receive emergency SOS messages in case their children
+perceive threats.
+5.0 High Level Functional Requirements
+5.1 Phase 1: Initial Features
+Dashboard: Provide attendance data and quick access to courses and attendance reports.
+My Courses: Display the courses in which the student is enrolled and provide access to
+attendance reports.
+Find My Child: Enable parents to locate their children.
+SOS: Implement an emergency SOS feature.
+5.2 Phase 2: Additional Features
+Dashboard: Allow parents to add activities and view attainment data.
+Activities: Enable parents to track their children's activities.
+Attainment Data: Provide information on the students' progress and achievement.
+5.3 Phase 3: Leave Management
+Dashboard: Introduce leave management data to the dashboard.
+Leave Management: Allow parents to manage student leave applications.
+5.4 Phase 4: Assignment Management
+Dashboard: Include assignment data in the dashboard.
+Assignment: Provide functionality for parents to access and track their children's assignments.
+5.5 Phase 5: Integration with DigiAssess
+Dashboard: Integrate with DigiAssess data.
+DigiAssess Integration: Enable parents to view and track their children's assessment data from
+DigiAssess.
+5.6 Phase 6: Subscription-Based Features
+Dashboard: Customize the dashboard based on the user's subscription level (Basic, Advanced,
+or Pro).
+Basic Subscription: Provide access to all features except for adding five mobile numbers and
+email IDs for alerts, chat communications (text, audio, video) with their child and staff members,
+and adding friends for group discussions. It includes features such as attendance tracking, class
+attendance, examination results, communication, announcements, multi-stakeholder alerts,
+leave management, location tracking, geo-fencing alerts, and SOS.
+Advanced Subscription: Include all features of the Basic Subscription, with the additional
+capability to add five mobile numbers and email IDs for alerts and engage in textual chat
+communications with their child and staff members.
+Pro Subscription: Include all features of the Advanced Subscription, with the added functionality
+of audio and video chat communications with their child and staff members, the ability to add
+friends (students from the same campus) for group discussions, the addition of five GPS
+locations for geo-fencing alerts, and access to the SOS and Find My Child features.
+HEBA Integration: Offer a special add-on available for all subscription models, allowing parents
+to interact with HEBA for insights on their child's learning, conduct assessments, and obtain
+their child's learning status quo.
+6.0 Conclusion
+The parent application within Digiclass aims to address the key requirements of parents,
+facilitating their active involvement in monitoring and supporting their children's education. The
+development will follow a phased approach, incrementally introducing features to ensure a
+user-friendly experience and gather valuable user feedback.
+Note: The Business Requirement Document (BRD) provides an overview of the business
+requirements and goals for the parent application within Digiclass. It outlines the needs of
+parents, stakeholders, and the proposed features and functionality. The document sets the
+foundation for the subsequent Functional Requirement Document (FRD), which will provide
+more detailed specifications for each feature identified in the BRD.
+User stories based on the requirements mentioned in the Business Requirement Document
+(BRD):
+1. As a parent, I want to be able to view my child's attendance records in real-time, so I can
+ensure they are attending college regularly.
+2. As a parent, I want to receive notifications if my child is not attending specific classes, so
+I can address any attendance issues promptly.
+3. As a parent, I want to have visibility into my child's participation and engagement in
+classroom activities, so I can assess their level of involvement in their studies.
+4. As a parent, I want to track my child's performance in examinations and assessments,
+so I can gauge their progress and provide necessary support.
+5. As a parent, I want the ability to communicate with staff members and administrators
+through various channels (text, voice call, video call), so I can discuss my child's
+academic progress or address any concerns.
+6. As a parent, I want to receive timely general (for all) and specific (for me)
+announcements from the college or university, ensuring I stay informed about important
+events, deadlines, or changes.
+7. As a parent, I want to set up alerts to multiple mobile numbers and email addresses, so
+that other relevant stakeholders (e.g., parents, guardians) can receive important
+information about my child's academic activities.
+8. As a parent, I want to know the current location of my child, ensuring their safety and
+monitoring if they are within specified locations.
+9. As a parent, I want to receive alerts if my child moves away from defined locations or
+enters unmapped areas for an extended period, so I can take appropriate action if
+necessary.
+10. As a parent, I want the ability to send and receive SOS messages in case my child
+perceives a threat or is in an emergency situation.
+11. As a parent, I want a user-friendly dashboard that displays relevant attendance data,
+quick access to courses and attendance reports, and provides an intuitive interface for
+accessing key features.
+12. As a parent, I want to be able to view activities and attainment data, allowing me to track
+my child's involvement in extracurricular or additional learning activities.
+13. As a parent, I want the functionality to manage student leave applications within the
+system, including submitting requests and viewing the status of previous applications.
+14. As a parent, I want to be able to apply for student leave on behalf of my child, and
+receive notifications when leave is requested or approved.
+15. As a parent, I want to access and track my child's assignments, ensuring they are
+completing tasks and meeting deadlines.
+16. As a parent, I want seamless integration with DigiAssess, enabling me to view and track
+my child's assessment data and progress.
+17. As a parent, I want the flexibility to choose a subscription model (Basic, Advanced, or
+Pro) that aligns with my specific needs and desired level of access to features.
+18. As a parent, I want the option to interact with HEBA, an AI-powered assistant, to gain
+insights into my child's learning progress and request assessments to assess their
+current status quo.
+Functional Requirements Document (FRD)
+1.0 Introduction
+Purpose: The Functional Requirements Document (FRD) outlines the detailed functional
+specifications for the development of the parent application within Digiclass.
+Scope: The document covers the features and functionalities required to fulfill the business
+requirements stated in the Business Requirement Document (BRD).
+2.0 Functional Requirements
+2.1 Authentication and User Management
+Requirement 2.1.1: Users should be able to register and create a parent account.
+Requirement 2.1.2: Users should be able to log in securely to access the parent application.
+Requirement 2.1.3: User roles and permissions should be implemented to ensure appropriate
+access levels for parents, administrators, and staff members.
+Requirement 2.1.4: Password reset functionality should be available for users who forget their
+login credentials.
+2.2 Attendance Tracking and Reporting
+Requirement 2.2.1: Parents should be able to view their child's attendance records, including
+dates, courses, and attendance status.
+Requirement 2.2.2: Notifications should be sent to parents when their child is absent from
+college or specific classes.
+Requirement 2.2.3: Attendance reports should provide comprehensive data on the overall
+attendance percentage and details of individual courses.
+2.3 Classroom Activities Monitoring
+Requirement 2.3.1: Parents should be able to access information about their child's participation
+and engagement in classroom activities.
+Requirement 2.3.2: The application should provide activity logs or summaries, indicating the
+types of activities and the level of involvement.
+2.4 Examination Results and Progress Tracking
+Requirement 2.4.1: Parents should have access to their child's examination results and
+assessment scores.
+Requirement 2.4.2: Progress tracking functionality should allow parents to monitor their child's
+academic performance over time.
+2.5 Communication Features
+Requirement 2.5.1: Parents should be able to communicate with staff members and
+administrators via text, voice calls, and video calls within the application.
+Requirement 2.5.2: The application should provide a chat interface with individual and group
+chat capabilities for effective communication.
+2.6 Announcement and Notification System
+Requirement 2.6.1: The application should deliver timely announcements and notifications from
+the college or university to parents.
+Requirement 2.6.2: Notifications should be displayed prominently, with options for parents to
+view announcements in detail.
+2.7 Multi-Stakeholder Alerts
+Requirement 2.7.1: Parents should be able to set alerts and notifications to multiple mobile
+numbers and email addresses of relevant stakeholders, such as parents and guardians.
+Requirement 2.7.2: Alerts should be configurable based on specific events or conditions,
+ensuring important information reaches the intended recipients.
+2.8 Leave Management
+Requirement 2.8.1: Parents should be able to submit leave applications on behalf of their child,
+specifying the reason, dates, and other relevant details.
+Requirement 2.8.2: The application should provide a leave management system for
+administrators to review and approve or reject leave requests.
+2.9 Location Tracking and Geo-fencing
+Requirement 2.9.1: Parents should have access to their child's current location within the
+application.
+Requirement 2.9.2: The application should support defining GPS locations as per parental
+preferences for monitoring their child's movements.
+Requirement 2.9.3: Geo-fencing alerts should be triggered when the child moves away from the
+defined GPS locations or enters unmapped areas for more than half an hour.
+2.10 SOS Feature
+Requirement 2.10.1: The application should include an SOS feature that allows children to send
+distress messages to their parents in case of perceived threats or emergencies.
+Requirement 2.10.2: SOS alerts should trigger immediate notifications to parents, enabling them
+to respond promptly.
+2.11 User-Friendly Dashboard
+Requirement 2.11.1: The application should provide a user-friendly dashboard for parents,
+displaying relevant information such as attendance data, quick access to courses, and
+attendance reports.
+Requirement 2.11.2: The dashboard should have an intuitive interface with clear navigation and
+visual representations of data.
+2.12 Activity and Attainment Tracking
+Requirement 2.12.1: Parents should be able to add and view their child's activities and
+attainment data, including extracurricular activities and additional learning achievements.
+Requirement 2.12.2: The application should support tracking and reporting on the level of
+participation and the accomplishments of the child.
+2.13 Assignment Management
+Requirement 2.13.1: Parents should have access to their child's assignments within the
+application.
+Requirement 2.13.2: The application should provide functionality to view assignment details,
+submission deadlines, and completed assignments.
+2.14 Integration with DigiAssess
+Requirement 2.14.1: The application should integrate with DigiAssess, enabling parents to
+access and track their child's assessment data and progress.
+Requirement 2.14.2: The integration should provide seamless synchronization of assessment
+results and performance indicators.
+2.15 Subscription Models
+Requirement 2.15.1: The application should offer three subscription models: Basic, Advanced,
+and Pro.
+Requirement 2.15.2: Each subscription model should provide different levels of access to
+features and functionalities, as specified in the BRD.
+Requirement 2.15.3: The application should allow parents to choose their desired subscription
+level and upgrade or downgrade as needed.
+2.16 HEBA Integration
+Requirement 2.16.1: The application should integrate with HEBA, an AI-powered assistant,
+providing parents with insights into their child's learning progress and conducting assessments.
+Requirement 2.16.2: Parents should be able to interact with HEBA to request specific
+assessments and receive reports on their child's learning status quo.
+Note: The Functional Requirements Document (FRD) provides a comprehensive overview of the
+specific functionalities and features that need to be developed to meet the business
+requirements. The wireframe document provides visual representations of the user interface,
+helping stakeholders understand the layout and flow of the parent application.
+Detailed explanations to build the functional flow and wireframe
+The purpose of this explanation is to help you understand the structure and flow of the
+wireframes. Please note that these representations might not be as detailed or visually precise
+as actual flow diagrams. The design team must discuss with me or any SME/ BPE to create
+accurate flow diagrams.
+Here is a textual representation of the flow diagrams for the wireframes:
+1.0 Authentication and User Management Flow:
+1.1 User Registration:
+1.1.1 User accesses the registration page.
+1.1.2 User enters their details and submits the registration form.
+1.1.3 System validates the information and creates a new parent account.
+1.1.4 User receives a confirmation message.
+1.2 User Login:
+1.2.1 User navigates to the login page.
+1.2.2 User enters their credentials and submits the login form.
+1.2.3 System verifies the credentials and grants access to the parent dashboard.
+2.0 Parent Dashboard Flow:
+2.1 Dashboard Overview:
+2.1.1 Parent logs into the application.
+2.1.2 Parent is directed to the dashboard.
+2.1.3 Dashboard displays summarized information like attendance, courses, and recent
+announcements.
+2.2 Navigation:
+2.2.1 Parent can click on specific sections (e.g., Attendance, Courses) to access detailed
+information.
+2.2.2 Parent can access communication features, such as chat or video call, from the
+dashboard.
+3.0 Attendance Tracking and Reporting Flow:
+3.1 Attendance Overview:
+3.1.1 Parent selects the Attendance section from the dashboard.
+3.1.2 System retrieves attendance records for the child.
+3.1.3 Attendance data is displayed, including dates, courses, and attendance status.
+3.2 Notifications:
+3.2.1 System sends notifications to parents when their child is absent from college or specific
+classes.
+3.2.2 Parent receives a notification on the dashboard and/or via email/mobile app.
+4.0 Classroom Activities Monitoring Flow:
+4.1 Activities Overview:
+4.1.1 Parent selects the Activities section from the dashboard.
+4.1.2 System displays the list of classroom activities.
+4.1.3 Parent can view details of each activity, such as type, description, and the child's
+participation level.
+5.0 Examination Results and Progress Tracking Flow:
+5.1 Results Overview:
+5.1.1 Parent navigates to the Results section from the dashboard.
+5.1.2 System retrieves the child's examination results and assessment scores.
+5.1.3 Parent can view detailed results and track the child's progress over time.
+6.0 Communication Features Flow:
+6.1 Chat and Call:
+6.1.1 Parent accesses the communication section (e.g., Chat, Call) from the dashboard.
+6.1.2 Parent can select a staff member or administrator to initiate a chat or call.
+6.1.3 The system establishes the communication channel for text, voice, or video interaction.
+7.0 Announcement and Notification System Flow:
+7.1 Announcement Overview:
+7.1.1 Parent navigates to the Announcements section from the dashboard.
+7.1.2 System retrieves the latest announcements from the college or university.
+7.1.3 Parent can view the announcements, including details and important information.
+7.2 Notification Display:
+7.2.1 System sends notifications for new announcements or time-sensitive information.
+7.2.2 Parent receives notifications on the dashboard, via email, or through mobile app push
+notifications.
+8.0 Leave Management Flow:
+8.1 Leave Application:
+8.1.1 Parent selects the Leave Management section from the dashboard.
+8.1.2 Parent fills out a leave application form, specifying the reason and dates.
+8.1.3 Parent submits the form for review.
+8.2 Leave Approval:
+8.2.1 Administrator receives the leave application for review.
+8.2.2 Administrator approves or rejects the leave request.
+8.2.3 Parent receives a notification indicating the status of the leave application.
+9.0 Location Tracking and Geo-fencing Flow:
+9.1 Location Tracking:
+9.1.1 Parent accesses the Location Tracking section from the dashboard.
+9.1.2 System displays the current location of the child.
+9.1.3 Parent can view the child's location on a map or in text format.
+9.2 Geo-fencing Alerts:
+9.2.1 System monitors the child's movements based on predefined GPS locations.
+9.2.2 If the child moves away from defined locations or enters unmapped areas, alerts are
+triggered.
+9.2.3 Parent receives immediate notifications regarding the child's location deviations.
+10.0 SOS Feature Flow:
+10.1 SOS Activation:
+10.1.1 Child initiates the SOS feature in case of a perceived threat or emergency.
+10.1.2 SOS alerts are sent to the parent immediately.
+10.1.3 Parent receives notifications with information about the SOS activation and the child's
+status.
+11.0 Subscription Models Flow:
+11.1 Subscription Selection:
+11.1.1 Parent accesses the Subscription section from the dashboard.
+11.1.2 Parent chooses the desired subscription level (Basic, Advanced, or Pro).
+11.1.3 System updates the parent's access and feature availability based on the selected
+subscription.
+12.0 HEBA Integration Flow:
+12.1 Interaction with HEBA:
+12.1.1 Parent accesses the HEBA section from the dashboard.
+12.1.2 Parent interacts with HEBA to gain insights into the child's learning progress.
+12.1.3 Parent can request specific assessments or reports from HEBA for a comprehensive
+understanding.
+These textual representations provide a basic understanding of the flow and interactions within
+the wireframes. However, the design team must bring more detailed and visually appealing flow
+diagrams for the wireframes.
