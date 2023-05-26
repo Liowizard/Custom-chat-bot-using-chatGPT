@@ -3,7 +3,6 @@ import os
 from urllib.parse import parse_qs
 from llama_index import SimpleDirectoryReader, GPTListIndex, readers, GPTVectorStoreIndex, LLMPredictor, PromptHelper, ServiceContext
 from langchain import OpenAI
-import os
 
 
 os.environ['OPENAI_API_KEY'] = "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"
